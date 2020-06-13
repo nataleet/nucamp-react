@@ -3105,6 +3105,11 @@ bootstrap-social@5.1.1:
     bootstrap "~3"
     font-awesome "~4.7"
 
+bootstrap@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.0.0.tgz#ceb03842c145fcc1b9b4e15da2a05656ba68469a"
+  integrity sha512-gulJE5dGFo6Q61V/whS6VM4WIyrlydXfCgkE+Gxe5hjrJ8rXLLZlALq7zq2RPhOc45PSwQpJkrTnc2KgD6cvmA==
+
 bootstrap@~3:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.1.tgz#c3a347d419e289ad11f4033e3c4132b87c081d72"
@@ -11332,6 +11337,16 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
+
+typeface-lobster@0.0.72:
+  version "0.0.72"
+  resolved "https://registry.yarnpkg.com/typeface-lobster/-/typeface-lobster-0.0.72.tgz#4036b3d0bcb1ff9f9fab2244886c461563fea784"
+  integrity sha512-7WKgGD1w4j1tSw2tom8n4n0s7gjJv+y4V2UpLGmmjDIZ9YeuBoBqk1A2snjpIvriScqBGOYCO0vhtr/RyHF2lw==
+
+typeface-open-sans@0.0.75:
+  version "0.0.75"
+  resolved "https://registry.yarnpkg.com/typeface-open-sans/-/typeface-open-sans-0.0.75.tgz#20d0c330f14c0c40463c334adbedd6005389abe4"
+  integrity sha512-0lLmB7pfj113OP4T78SbpSmC4OCdFQ0vUxdSXQccsSb6qF76F92iEuC/DghFgmPswTyidk8+Hwf+PS/htiJoRQ==
 
 uglify-js@^3.1.4:
   version "3.7.1"
